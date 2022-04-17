@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{c9e5:function(a,p,n){"use strict";n.r(p);var t=function(){var a=this,p=a.$createElement,n=a._self._c||p;return n("v-app",[n("v-app-bar",{attrs:{app:""}})],1)},e=[],r=n("2877"),c=n("6544"),u=n.n(c),l=n("7496"),s=n("40dc"),o={},i=Object(r["a"])(o,t,e,!1,null,null,null);p["default"]=i.exports;u()(i,{VApp:l["a"],VAppBar:s["a"]})}}]);
-//# sourceMappingURL=about.2590eae4.js.map
+//# sourceMappingURL=about.2e51d3b1.js.map
